@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "vimal",
+      "lastName": "kumar",
+      "email": "vimalkumar1183@gmail.com",
+      "mobile": 94567876,
+      "salary": 9876
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
